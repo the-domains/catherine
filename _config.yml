@@ -1,0 +1,28 @@
+name: catherine
+favicon: null
+layout_spectrum: 0.7296293992549181
+typography_spectrum: 0.4173086679074913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.47815570910461247
+  lightness: 0.3405921687372029
+  saturation: 0.7605352266691625
+  rhythmicContrast: 0.23341746302321553
+purpose: []
